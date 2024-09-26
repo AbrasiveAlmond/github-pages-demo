@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Just seeing how GH-pages works
 ---
 
